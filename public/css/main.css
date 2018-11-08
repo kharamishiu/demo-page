@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://demo.proteusthemes.com/shaka/wp-content/uploads/sites/38/2016/06/shaka-background.png);
+    background-repeat: repeat;
+    background-position: top left;
+    background-attachment: scroll;
+}
+
+.dark-overlay {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.4);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+
+#parallax-heading {
+        position: relative;
+        min-height: 300px;
+        background: url("/img/pa.jpg");
+        background-position: 100% 100%;
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        text-align: center;
+        color: #fff; }
+
+.navbar {
+    box-shadow: 2px 2px 5px #3292a6;
+    opacity: 0.8;
+    background: #fff; }
+.navbar .nav-item {
+    font-size: 1.1rem;
+    padding-right: 20px; }
+
+.card-class{
+    border: none;
+    background-image: url(https://demo.proteusthemes.com/shaka/wp-content/uploads/sites/38/2016/06/shaka-background.png);
+    
+}
